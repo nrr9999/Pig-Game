@@ -12,7 +12,7 @@ const btnRoll = document.querySelector(".btn--roll");
 const btnHold = document.querySelector(".btn--hold");
 
 // starting conditions
-score0EL.textContent = 0;
+score0EL.textContent = 1;
 score1EL.textContent = 0;
 diceEL.classList.add("hidden");
 
